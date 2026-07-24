@@ -1,0 +1,81 @@
+@startuml "Identity as Accumulation"
+!theme plain
+top to bottom direction
+skinparam shadowing false
+skinparam rectangle {
+    RoundCorner 15
+}
+
+rectangle "Infancy (0-2 years)" as Infancy #AliceBlue {
+    rectangle "Infancy" as A
+    rectangle "Validated parent signs\ncryptographic attestation" as A1
+    rectangle "Midwife, relatives, community\nelder form first Sangam" as A2
+    A -down-> A1 : Parent's Attestation
+    A -down-> A2 : Witnesses
+}
+
+rectangle "Childhood (3-12 years)" as Childhood #AntiqueWhite {
+    rectangle "Childhood" as B
+    rectangle "Teachers, librarians, neighbors,\ncoaches add signatures" as B1
+    rectangle "Identity expands through\nbeing seen & recognized" as B2
+    B -down-> B1 : Independent Recognitions
+    B -down-> B2 : Ledger Growth
+}
+
+rectangle "Adolescence (13-18 years)" as Adolescence #Azure {
+    rectangle "Adolescence" as C
+    rectangle "Friendships, civic participation,\nearly work" as C1
+    rectangle "Ledger spans many years,\nimpossible to fake" as C2
+    C -down-> C1 : Autonomous Sangam
+    C -down-> C2 : Temporal Depth
+}
+
+rectangle "Adulthood (19-40 years)" as Adulthood #Beige {
+    rectangle "Adulthood" as D
+    rectangle "Work relationships, civic duties,\nsocial networks" as D1
+    rectangle "Hundreds of attestations\nacross diverse contexts" as D2
+    D -down-> D1 : Professional Identity
+    D -down-> D2 : Relational Breadth
+}
+
+rectangle "Maturity (41-65 years)" as Maturity #Bisque {
+    rectangle "Maturity" as E
+    rectangle "Guiding younger generations,\ninstitutional roles" as E1
+    rectangle "Long-term civic participation,\nsustained recognition" as E2
+    E -down-> E1 : Mentorship & Leadership
+    E -down-> E2 : Community Anchoring
+}
+
+rectangle "Elderhood (65+ years)" as Elderhood #BlanchedAlmond {
+    rectangle "Elderhood" as F
+    rectangle "Recognition as elder,\ncustodian of collective memory" as F1
+    rectangle "Attestations from descendants,\nstudents, community" as F2
+    F -down-> F1 : Wisdom & Continuity
+    F -down-> F2 : Intergenerational Sangam
+}
+
+rectangle "Legacy & Intergenerational Identity" as Legacy #Cornsilk {
+    rectangle "Legacy" as G
+    rectangle "Ledger reflects decades\nof layered attestations" as G1
+    rectangle "Identity persists beyond lifespan,\nwoven into collective record" as G2
+    G -down-> G1 : Historical Density
+    G -down-> G2 : Proof of Personhood
+}
+
+' Enforce strict vertical stacking of the containers
+Infancy -[hidden]down-> Childhood
+Childhood -[hidden]down-> Adolescence
+Adolescence -[hidden]down-> Adulthood
+Adulthood -[hidden]down-> Maturity
+Maturity -[hidden]down-> Elderhood
+Elderhood -[hidden]down-> Legacy
+
+' Logical sequence connections
+A -down-> B
+B -down-> C
+C -down-> D
+D -down-> E
+E -down-> F
+F -down-> G
+
+@enduml

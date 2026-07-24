@@ -1,0 +1,62 @@
+@startuml Cooperative Platform Governance
+!define RECTANGLE class
+
+skinparam shadowing false
+skinparam defaultFontSize 11
+skinparam packageStyle rectangle
+
+package "Federated Cooperative Structure" {
+  
+  rectangle "Participant Base" as participants #LightBlue {
+    [Riders/Drivers]
+    [Passengers]
+    [Technical Support Cooperative]
+  }
+  
+  rectangle "Democratic Decision-Making" as decisions #LightGreen {
+    [Neighborhood Assemblies]
+    [Citywide Councils]
+    [National Coordination]
+    [Thematic Working Groups]
+  }
+  
+  rectangle "Platform Development" as development #LightYellow {
+    [Proposal Submission]
+    [Quadratic Voting]
+    [Vibecoding Phase]
+    [Progressive Testing]
+    [Generalization]
+  }
+  
+  rectangle "Operational Systems" as operations #LightPink {
+    [Route Optimization]
+    [Compensation Algorithms]
+    [Emergency Response]
+    [Quality Assurance]
+  }
+}
+
+participants --> decisions : "Elect delegates,\npropose changes"
+decisions --> development : "Approve roadmap,\nset priorities"
+development --> operations : "Deploy improvements,\nmonitor outcomes"
+operations --> participants : "Service delivery,\ndata transparency"
+
+note right of development
+  **Democratic Versioning Process:**
+  1. Anyone proposes improvement
+  2. Community deliberation + voting
+  3. Vibecoding implementation
+  4. Volunteer driver testing
+  5. Refinement based on feedback
+  6. Systemwide generalization
+end note
+
+note left of operations
+  **Operational Principles:**
+  • Transparency: All algorithms auditable
+  • Equity: Cross-subsidization by design
+  • Privacy: Minimal data collection
+  • Safety: Community-defined standards
+end note
+
+@enduml

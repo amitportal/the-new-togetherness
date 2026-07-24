@@ -1,0 +1,959 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10058" height="1748" data-diagram-type="DESCRIPTION"
+    preserveAspectRatio="none" style="width:10058px;height:1748px;background:#fff" viewBox="0 0 10058 1748">
+    <title>From Infrastructure to Rights: The Material Basis of 21st Century Socialism</title>
+    <text x="4556.294" y="35.421" class="title" data-source-line="23" font-family="'Noto Sans'" font-size="22"
+        font-weight="bold" textLength="937.052">From Infrastructure to Rights: The Material Basis of 21st Century
+        Socialism</text>
+    <g class="cluster" data-entity="INFRASTRUCTURE SUBSTRATE" data-source-line="26" data-uid="ent0002">
+        <path fill="#fff"
+            d="M13.5 57.61h171.557a3.75 3.75 0 0 1 2.5 2.5l7 15.14H1912.5a2.5 2.5 0 0 1 2.5 2.5v1045.86a2.5 2.5 0 0 1-2.5 2.5H13.5a2.5 2.5 0 0 1-2.5-2.5V60.11a2.5 2.5 0 0 1 2.5-2.5"
+            style="stroke:#000;stroke-width:1" />
+        <path d="M11 75.25h183.557" style="stroke:#000;stroke-width:1" />
+        <text x="15" y="68.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="170.557">INFRASTRUCTURE SUBSTRATE</text>
+        <text x="932.74" y="86.532" font-family="'Noto Sans'" font-size="10" font-style="italic"
+            textLength="68.52">«Foundation»</text>
+    </g>
+    <g class="cluster" data-entity="veins" data-source-line="28" data-uid="ent0003">
+        <rect width="892" height="732.5" x="43" y="115.609" fill="#e3f2fd" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="432.027" y="126.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="113.945">1A. ARTERIAL VEINS</text>
+        <text x="428.58" y="138.532" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="120.84">(Deep Infrastructure)</text>
+    </g>
+    <g class="cluster" data-entity="urban_veins" data-source-line="29" data-uid="ent0004">
+        <rect width="341" height="263.5" x="554" y="173.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="664.441" y="184.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="120.117">Urban Cable Network</text>
+    </g>
+    <g class="cluster" data-entity="rural_veins" data-source-line="35" data-uid="ent0008">
+        <rect width="455" height="263.5" x="75" y="173.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="238.718" y="184.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="127.564">Rural Poly-Nodal Mesh</text>
+    </g>
+    <g class="cluster" data-entity="deadweight" data-source-line="42" data-uid="ent0013">
+        <rect width="408" height="256.5" x="487" y="559.609" fill="#f5f5f5" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="622.533" y="570.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="136.934">Anti-Deadweight Design</text>
+    </g>
+    <g class="cluster" data-entity="capillaries" data-source-line="49" data-uid="ent0017">
+        <rect width="908" height="793" x="975" y="301.109" fill="#fff8e1" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1366.866" y="312.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="124.268">1B. CAPILLARY EDGES</text>
+        <text x="1366.502" y="324.032" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="124.995">(Last-Meter Interface)</text>
+    </g>
+    <g class="cluster" data-entity="urban_cap" data-source-line="50" data-uid="ent0018">
+        <rect width="377" height="284" x="1466" y="359.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1596.67" y="370.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="115.659">Urban Edge Delivery</text>
+    </g>
+    <g class="cluster" data-entity="rural_cap" data-source-line="56" data-uid="ent0022">
+        <rect width="435" height="284" x="1007" y="359.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1182" y="370.392" font-family="'Noto Sans'" font-size="10" font-weight="bold" textLength="85">Rural
+            Last-Mile</text>
+    </g>
+    <g class="cluster" data-entity="zero_cost" data-source-line="62" data-uid="ent0026">
+        <rect width="423" height="324" x="1420" y="738.109" fill="#f5f5f5" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1569.408" y="749.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="124.185">Zero Transaction Cost</text>
+    </g>
+    <g class="cluster" data-entity="METABOLIC FLOWS . SOCIAL TRANSFORMATIONS" data-source-line="71" data-uid="ent0030">
+        <path fill="#fff"
+            d="M2225.5 461.11h282.523a3.75 3.75 0 0 1 2.5 2.5l7 15.14H5217.5a2.5 2.5 0 0 1 2.5 2.5v878.36a2.5 2.5 0 0 1-2.5 2.5h-2992a2.5 2.5 0 0 1-2.5-2.5v-896a2.5 2.5 0 0 1 2.5-2.5"
+            style="stroke:#000;stroke-width:1" />
+        <path d="M2223 478.75h294.523" style="stroke:#000;stroke-width:1" />
+        <text x="2227" y="472.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="281.523">METABOLIC FLOWS &amp; SOCIAL TRANSFORMATIONS</text>
+        <text x="3694.672" y="490.032" font-family="'Noto Sans'" font-size="10" font-style="italic"
+            textLength="61.655">«Dynamics»</text>
+    </g>
+    <g class="cluster" data-entity="urban_meta" data-source-line="73" data-uid="ent0031">
+        <rect width="901" height="811" x="4287" y="519.109" fill="#ffe4e1" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4667.639" y="530.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="139.722">2A. URBAN METABOLISM</text>
+    </g>
+    <g class="cluster" data-entity="streets" data-source-line="74" data-uid="ent0032">
+        <rect width="376" height="251" x="4780" y="565.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4885.734" y="576.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="164.531">Streets Reclaimed for People</text>
+    </g>
+    <g class="cluster" data-entity="torrenting" data-source-line="80" data-uid="ent0036">
+        <rect width="429" height="251" x="4327" y="565.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4473.683" y="576.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="135.635">Matter Torrenting (P2P)</text>
+    </g>
+    <g class="cluster" data-entity="urban_circular" data-source-line="86" data-uid="ent0040">
+        <rect width="443" height="314" x="4713" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4859.295" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="150.41">Circular Urban Metabolism</text>
+    </g>
+    <g class="cluster" data-entity="rural_meta" data-source-line="93" data-uid="ent0044">
+        <rect width="996" height="811" x="2255" y="519.109" fill="#f0fff0" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2684.157" y="530.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="137.685">2B. RURAL METABOLISM</text>
+    </g>
+    <g class="cluster" data-entity="metabolic_rift" data-source-line="94" data-uid="ent0045">
+        <rect width="447" height="251" x="2764" y="565.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2922.351" y="576.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="130.298">Bridging Metabolic Rift</text>
+    </g>
+    <g class="cluster" data-entity="farm_coop" data-source-line="100" data-uid="ent0049">
+        <rect width="453" height="251" x="2287" y="565.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2441.21" y="576.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="144.58">Lateral Farm Cooperation</text>
+    </g>
+    <g class="cluster" data-entity="agrarian_ind" data-source-line="106" data-uid="ent0053">
+        <rect width="421" height="314" x="2752" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2890.068" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="144.863">Agrarian Industrialization</text>
+    </g>
+    <g class="cluster" data-entity="trans_cost" data-source-line="113" data-uid="ent0057">
+        <rect width="956" height="407.5" x="3291" y="686.609" fill="#e8f5e9" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3670.794" y="697.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="196.411">2C. TRANSACTION COST COLLAPSE</text>
+    </g>
+    <g class="cluster" data-entity="abundance" data-source-line="114" data-uid="ent0058">
+        <rect width="447" height="329.5" x="3760" y="732.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3876.127" y="743.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="214.746">From Scarcity Hoarding to Abundance</text>
+    </g>
+    <g class="cluster" data-entity="decom" data-source-line="120" data-uid="ent0062">
+        <rect width="413" height="324" x="3323" y="738.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3454.693" y="749.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="149.614">Decommodification Layers</text>
+    </g>
+    <g class="cluster" data-entity="EMERGENT RIGHTS FRAMEWORK" data-source-line="130" data-uid="ent0067">
+        <path fill="#fff"
+            d="M5246.5 880.11h185.56a3.75 3.75 0 0 1 2.5 2.5l7 15.14H8151.5a2.5 2.5 0 0 1 2.5 2.5v743.36a2.5 2.5 0 0 1-2.5 2.5h-2905a2.5 2.5 0 0 1-2.5-2.5v-761a2.5 2.5 0 0 1 2.5-2.5"
+            style="stroke:#000;stroke-width:1" />
+        <path d="M5244 897.75h197.56" style="stroke:#000;stroke-width:1" />
+        <text x="5248" y="891.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="184.56">EMERGENT RIGHTS FRAMEWORK</text>
+        <text x="6652.595" y="909.032" font-family="'Noto Sans'" font-size="10" font-style="italic"
+            textLength="100.811">«Political-Economy»</text>
+    </g>
+    <g class="cluster" data-entity="drudgery_rights" data-source-line="132" data-uid="ent0068">
+        <rect width="923" height="392" x="7199" y="938.109" fill="#f3e5f5" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7564.638" y="949.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="191.724">3A. LIBERATION FROM DRUDGERY</text>
+    </g>
+    <g class="cluster" data-entity="logistics" data-source-line="133" data-uid="ent0069">
+        <rect width="353" height="314" x="7729" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7790.292" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="230.415">Right to Freedom from Logistical Burden</text>
+    </g>
+    <g class="cluster" data-entity="meal" data-source-line="139" data-uid="ent0073">
+        <rect width="474" height="314" x="7231" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7406.738" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="122.524">Right to Desired Meal</text>
+    </g>
+    <g class="cluster" data-entity="econ_rights" data-source-line="146" data-uid="ent0077">
+        <rect width="1000" height="676" x="6159" y="938.109" fill="#f3e5f5" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6557.831" y="949.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="202.339">3B. ECONOMIC DEMOCRACY RIGHTS</text>
+    </g>
+    <g class="cluster" data-entity="prod" data-source-line="147" data-uid="ent0078">
+        <rect width="525" height="314" x="6594" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6762.804" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="187.393">Right to Participatory Production</text>
+    </g>
+    <g class="cluster" data-entity="circular" data-source-line="153" data-uid="ent0082">
+        <rect width="379" height="314" x="6191" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6307.155" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="146.69">Right to Circular Economy</text>
+    </g>
+    <g class="cluster" data-entity="immediate" data-source-line="159" data-uid="ent0086">
+        <rect width="431" height="196" x="6607" y="1386.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6719.326" y="1397.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="206.348">Right to Immediate Resource Access</text>
+    </g>
+    <g class="cluster" data-entity="spatial_rights" data-source-line="166" data-uid="ent0090">
+        <rect width="843" height="676" x="5276" y="938.109" fill="#f3e5f5" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5596.56" y="949.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="201.88">3C. SPATIAL &amp; KNOWLEDGE RIGHTS</text>
+    </g>
+    <g class="cluster" data-entity="movement" data-source-line="167" data-uid="ent0091">
+        <rect width="335" height="314" x="5744" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5829.234" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="164.531">Right to Universal Movement</text>
+    </g>
+    <g class="cluster" data-entity="knowledge" data-source-line="173" data-uid="ent0095">
+        <rect width="412" height="314" x="5308" y="984.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5429.222" y="995.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="169.556">Right to Knowledge Commons</text>
+    </g>
+    <g class="cluster" data-entity="public_space" data-source-line="179" data-uid="ent0099">
+        <rect width="371" height="196" x="5708" y="1386.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5833.256" y="1397.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="120.488">Right to Public Space</text>
+    </g>
+    <g class="cluster" data-entity="civilization" data-source-line="188" data-uid="ent0103">
+        <rect width="1251" height="584" x="8186" y="1158.109" fill="#e6e6fa" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8741.605" y="1169.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="139.79">4. CIVILIZATIONAL SHIFT</text>
+    </g>
+    <g class="cluster" data-entity="exchange_circ" data-source-line="189" data-uid="ent0104">
+        <rect width="486" height="260" x="8911" y="1212.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="9007.921" y="1223.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="292.158">From Commodity Exchange to Commons Circulation</text>
+    </g>
+    <g class="cluster" data-entity="scarcity_abund" data-source-line="195" data-uid="ent0108">
+        <rect width="653" height="244" x="8226" y="1220.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8411.079" y="1231.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="282.842">From Artificial Scarcity to Cooperative Abundance</text>
+    </g>
+    <g class="cluster" data-entity="extraction_mutual" data-source-line="201" data-uid="ent0112">
+        <rect width="543" height="206" x="8862" y="1504.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="9049.521" y="1515.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="167.959">From Extraction to Mutualism</text>
+    </g>
+    <g class="entity" data-entity="Electromagnetic Propulsion" data-source-line="30" data-uid="ent0005">
+        <rect width="157.148" height="31.641" x="570.5" y="203.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="580.5" y="222.892" font-family="'Noto Sans'" font-size="10" textLength="137.148">Electromagnetic
+            Propulsion</text>
+    </g>
+    <g class="entity" data-entity="600m Tower Spans" data-source-line="31" data-uid="ent0006">
+        <rect width="116.226" height="31.641" x="763" y="203.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="773" y="222.892" font-family="'Noto Sans'" font-size="10" textLength="96.226">600m Tower Spans</text>
+    </g>
+    <g class="entity" data-entity="Solar . Regenerative Braking" data-source-line="32" data-uid="ent0007">
+        <rect width="168.852" height="31.641" x="569.5" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="579.5" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="148.852">Solar + Regenerative
+            Braking</text>
+    </g>
+    <g class="entity" data-entity="Farm-Loop Topology .10-20 farms." data-source-line="36" data-uid="ent0009">
+        <rect width="194.458" height="31.641" x="91" y="203.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="101" y="222.892" font-family="'Noto Sans'" font-size="10" textLength="174.458">Farm-Loop Topology
+            (10-20 farms)</text>
+    </g>
+    <g class="entity" data-entity="Village Aggregators .Cold Storage." data-source-line="37" data-uid="ent0010">
+        <rect width="194.131" height="31.641" x="320" y="203.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="330" y="222.892" font-family="'Noto Sans'" font-size="10" textLength="174.131">Village Aggregators
+            (Cold Storage)</text>
+    </g>
+    <g class="entity" data-entity="Direct Farm-to-Processing" data-source-line="38" data-uid="ent0011">
+        <rect width="150.122" height="31.641" x="113" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="123" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="130.122">Direct
+            Farm-to-Processing</text>
+    </g>
+    <g class="entity" data-entity="Direct Farm-to-Plate" data-source-line="39" data-uid="ent0012">
+        <rect width="121.338" height="31.641" x="297.5" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="307.5" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="101.338">Direct
+            Farm-to-Plate</text>
+    </g>
+    <g class="entity" data-entity="Payload Efficiency. 48-92..n.vs. 1-20. conventional." data-source-line="43"
+        data-uid="ent0014">
+        <rect width="156.055" height="43.281" x="503" y="589.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="513" y="608.892" font-family="'Noto Sans'" font-size="10" textLength="136.055">Payload Efficiency:
+            48-92%</text>
+        <text x="513" y="620.532" font-family="'Noto Sans'" font-size="10" textLength="125.088">(vs. 1-20%
+            conventional)</text>
+    </g>
+    <g class="entity" data-entity="Moving Only What Needs Moving" data-source-line="44" data-uid="ent0015">
+        <rect width="185.493" height="31.641" x="694.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="704.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="165.493">Moving Only What Needs
+            Moving</text>
+    </g>
+    <g class="entity" data-entity="Stationary Propulsion" data-source-line="45" data-uid="ent0016">
+        <rect width="127.056" height="31.641" x="517.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="527.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="107.056">Stationary
+            Propulsion</text>
+    </g>
+    <g class="entity" data-entity="Balcony Winches ..3.500." data-source-line="51" data-uid="ent0019">
+        <rect width="150.991" height="31.641" x="1482.5" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1492.5" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="130.991">Balcony Winches
+            (₹3,500)</text>
+    </g>
+    <g class="entity" data-entity="Vine-Robot Crawlers .420g." data-source-line="52" data-uid="ent0020">
+        <rect width="158.418" height="31.641" x="1669" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1679" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="138.418">Vine-Robot Crawlers
+            (420g)</text>
+    </g>
+    <g class="entity" data-entity="Pneumatic Auto-Targeting ..5cm." data-source-line="53" data-uid="ent0021">
+        <rect width="192.124" height="31.641" x="1482" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1492" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="172.124">Pneumatic
+            Auto-Targeting (±5cm)</text>
+    </g>
+    <g class="entity" data-entity="Farm Sector Delivery .Tools.Inputs." data-source-line="57" data-uid="ent0023">
+        <rect width="197.534" height="31.641" x="1023" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1033" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="177.534">Farm Sector Delivery
+            (Tools/Inputs)</text>
+    </g>
+    <g class="entity" data-entity="Homestead Direct Connection" data-source-line="58" data-uid="ent0024">
+        <rect width="170.391" height="31.641" x="1256" y="389.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1266" y="408.392" font-family="'Noto Sans'" font-size="10" textLength="150.391">Homestead Direct
+            Connection</text>
+    </g>
+    <g class="entity" data-entity="Emergency Medicine ..15 min." data-source-line="59" data-uid="ent0025">
+        <rect width="178.55" height="31.641" x="1032.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1042.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="158.55">Emergency Medicine
+            (&lt;15 min)</text>
+    </g>
+    <g class="entity" data-entity="Automated Request-to-Receive" data-source-line="63" data-uid="ent0027">
+        <rect width="176.611" height="31.641" x="1435.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1445.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="156.611">Automated
+            Request-to-Receive</text>
+    </g>
+    <g class="entity" data-entity="No Human Coordination Burden" data-source-line="64" data-uid="ent0028">
+        <rect width="179.424" height="31.641" x="1647.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1657.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="159.424">No Human Coordination
+            Burden</text>
+    </g>
+    <g class="entity" data-entity="Cognitive Decommodification" data-source-line="65" data-uid="ent0029">
+        <rect width="167.788" height="31.641" x="1440" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="1450" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="147.788">Cognitive
+            Decommodification</text>
+    </g>
+    <g class="entity" data-entity="Public Squares Restored" data-source-line="75" data-uid="ent0033">
+        <rect width="141.724" height="31.641" x="4796" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4806" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="121.724">Public Squares
+            Restored</text>
+    </g>
+    <g class="entity" data-entity="Safe Play Spaces for Children" data-source-line="76" data-uid="ent0034">
+        <rect width="166.977" height="31.641" x="4973.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4983.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="146.977">Safe Play Spaces for
+            Children</text>
+    </g>
+    <g class="entity" data-entity="70-90. Goods Movement Elevated" data-source-line="77" data-uid="ent0035">
+        <rect width="196.323" height="31.641" x="4796" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4806" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="176.323">70-90% Goods Movement
+            Elevated</text>
+    </g>
+    <g class="entity" data-entity="Tool Libraries .Shared Drills.Vacuums." data-source-line="81" data-uid="ent0037">
+        <rect width="211.894" height="31.641" x="4343" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4353" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="191.894">Tool Libraries (Shared
+            Drills/Vacuums)</text>
+    </g>
+    <g class="entity" data-entity="Physical Internet of Books" data-source-line="82" data-uid="ent0038">
+        <rect width="149.834" height="31.641" x="4590" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4600" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="129.834">Physical Internet of
+            Books</text>
+    </g>
+    <g class="entity" data-entity="Joyful Surplus Food Sharing" data-source-line="83" data-uid="ent0039">
+        <rect width="157.353" height="31.641" x="4370.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4380.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="137.353">Joyful Surplus Food
+            Sharing</text>
+    </g>
+    <g class="entity" data-entity="Organic Waste . Compost .Automated." data-source-line="87" data-uid="ent0041">
+        <rect width="219.214" height="31.641" x="4729.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4739.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="199.214">Organic Waste →
+            Compost (Automated)</text>
+    </g>
+    <g class="entity" data-entity="Electronics . Repair Coops" data-source-line="88" data-uid="ent0042">
+        <rect width="155.879" height="31.641" x="4984" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4994" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="135.879">Electronics → Repair
+            Coops</text>
+    </g>
+    <g class="entity" data-entity="Collective Refrigeration" data-source-line="89" data-uid="ent0043">
+        <rect width="137.661" height="31.641" x="4770" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="4780" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="117.661">Collective
+            Refrigeration</text>
+    </g>
+    <g class="entity" data-entity="Farmers Retain Value-Add" data-source-line="95" data-uid="ent0046">
+        <rect width="151.211" height="31.641" x="2780.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2790.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="131.211">Farmers Retain
+            Value-Add</text>
+    </g>
+    <g class="entity" data-entity="40-70. Middleman Extraction Eliminated" data-source-line="96" data-uid="ent0047">
+        <rect width="227.666" height="31.641" x="2967" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2977" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="207.666">40-70% Middleman
+            Extraction Eliminated</text>
+    </g>
+    <g class="entity" data-entity="Direct Farm-to-Plate Traceability" data-source-line="97" data-uid="ent0048">
+        <rect width="183.164" height="31.641" x="2780.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2790.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="163.164">Direct Farm-to-Plate
+            Traceability</text>
+    </g>
+    <g class="entity" data-entity="Tool Sharing .Tractors. Sensors." data-source-line="101" data-uid="ent0050">
+        <rect width="180.723" height="31.641" x="2303.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2313.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="160.723">Tool Sharing
+            (Tractors, Sensors)</text>
+    </g>
+    <g class="entity" data-entity="15-20. Post-Harvest Loss Prevented" data-source-line="102" data-uid="ent0051">
+        <rect width="205.176" height="31.641" x="2519.5" y="595.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2529.5" y="614.392" font-family="'Noto Sans'" font-size="10" textLength="185.176">15-20% Post-Harvest
+            Loss Prevented</text>
+    </g>
+    <g class="entity" data-entity="Climate Resilience .Flood-Proof Delivery." data-source-line="103" data-uid="ent0052">
+        <rect width="224.736" height="31.641" x="2303.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2313.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="204.736">Climate Resilience
+            (Flood-Proof Delivery)</text>
+    </g>
+    <g class="entity" data-entity="Local Processing .Tomatoes . Puree." data-source-line="107" data-uid="ent0054">
+        <rect width="207.065" height="31.641" x="2768.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2778.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="187.065">Local Processing
+            (Tomatoes → Puree)</text>
+    </g>
+    <g class="entity" data-entity="Demand-Sensed Planting" data-source-line="108" data-uid="ent0055">
+        <rect width="146.401" height="31.641" x="3011" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3021" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="126.401">Demand-Sensed
+            Planting</text>
+    </g>
+    <g class="entity" data-entity="Village Cold Storage Access" data-source-line="109" data-uid="ent0056">
+        <rect width="159.102" height="31.641" x="2792.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="2802.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="139.102">Village Cold Storage
+            Access</text>
+    </g>
+    <g class="entity" data-entity="Sharing . Individual Ownership" data-source-line="115" data-uid="ent0059">
+        <rect width="178.33" height="31.641" x="3776" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3786" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="158.33">Sharing &gt; Individual
+            Ownership</text>
+    </g>
+    <g class="entity" data-entity="10 Households. 2 Washing Machines.n.vs. 10 individual units." data-source-line="116"
+        data-uid="ent0060">
+        <rect width="203.398" height="43.281" x="3988.5" y="762.609" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3998.5" y="781.892" font-family="'Noto Sans'" font-size="10" textLength="183.398">10 Households: 2
+            Washing Machines</text>
+        <text x="3998.5" y="793.532" font-family="'Noto Sans'" font-size="10" textLength="117.485">(vs. 10 individual
+            units)</text>
+    </g>
+    <g class="entity" data-entity="60-80. Material Reduction" data-source-line="117" data-uid="ent0061">
+        <rect width="155.981" height="31.641" x="3787" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3797" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="135.981">60-80% Material
+            Reduction</text>
+    </g>
+    <g class="entity" data-entity="Material. Near-Zero Marginal Cost" data-source-line="121" data-uid="ent0063">
+        <rect width="189.712" height="31.641" x="3339" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3349" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="169.712">Material: Near-Zero
+            Marginal Cost</text>
+    </g>
+    <g class="entity" data-entity="Temporal. 24.7 Availability" data-source-line="122" data-uid="ent0064">
+        <rect width="154.761" height="31.641" x="3564.5" y="768.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3574.5" y="787.392" font-family="'Noto Sans'" font-size="10" textLength="134.761">Temporal: 24/7
+            Availability</text>
+    </g>
+    <g class="entity" data-entity="Spatial. Universal Coverage" data-source-line="123" data-uid="ent0065">
+        <rect width="158.799" height="31.641" x="3342.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3352.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="138.799">Spatial: Universal
+            Coverage</text>
+    </g>
+    <g class="entity" data-entity="Cognitive. No Market Navigation" data-source-line="124" data-uid="ent0066">
+        <rect width="182.505" height="31.641" x="3536.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="3546.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="162.505">Cognitive: No Market
+            Navigation</text>
+    </g>
+    <g class="entity" data-entity="No Shopping Trips" data-source-line="134" data-uid="ent0070">
+        <rect width="111.475" height="31.641" x="7744.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7754.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="91.475">No Shopping
+            Trips</text>
+    </g>
+    <g class="entity" data-entity="No Hauling Water.Fuel.Harvest" data-source-line="135" data-uid="ent0071">
+        <rect width="175.102" height="31.641" x="7890.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7900.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="155.102">No Hauling
+            Water/Fuel/Harvest</text>
+    </g>
+    <g class="entity" data-entity="Time Liberated for Human Activity" data-source-line="136" data-uid="ent0072">
+        <rect width="192.393" height="31.641" x="7745" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7755" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="172.393">Time Liberated for
+            Human Activity</text>
+    </g>
+    <g class="entity" data-entity="Community Kitchens . Home ..30 min." data-source-line="140" data-uid="ent0074">
+        <rect width="222.236" height="31.641" x="7247" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7257" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="202.236">Community Kitchens →
+            Home (&lt;30 min)</text>
+    </g>
+    <g class="entity" data-entity="Freedom from Cooking Drudgery" data-source-line="141" data-uid="ent0075">
+        <rect width="184.902" height="31.641" x="7504.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7514.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="164.902">Freedom from Cooking
+            Drudgery</text>
+    </g>
+    <g class="entity" data-entity="Nutritional Sovereignty" data-source-line="142" data-uid="ent0076">
+        <rect width="135.972" height="31.641" x="7290" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="7300" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="115.972">Nutritional
+            Sovereignty</text>
+    </g>
+    <g class="entity" data-entity="Distributed Manufacturing .Home Factories." data-source-line="148"
+        data-uid="ent0079">
+        <rect width="240.557" height="31.641" x="6610.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6620.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="220.557">Distributed
+            Manufacturing (Home Factories)</text>
+    </g>
+    <g class="entity" data-entity="Local Value Addition .Farm Processing." data-source-line="149" data-uid="ent0080">
+        <rect width="215.845" height="31.641" x="6887" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6897" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="195.845">Local Value Addition
+            (Farm Processing)</text>
+    </g>
+    <g class="entity" data-entity="Cooperative Workshop Access" data-source-line="150" data-uid="ent0081">
+        <rect width="171.416" height="31.641" x="6645.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6655.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="151.416">Cooperative Workshop
+            Access</text>
+    </g>
+    <g class="entity" data-entity="Automated Reverse Logistics" data-source-line="154" data-uid="ent0083">
+        <rect width="165.942" height="31.641" x="6207" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6217" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="145.942">Automated Reverse
+            Logistics</text>
+    </g>
+    <g class="entity" data-entity="Waste . Resource Loops" data-source-line="155" data-uid="ent0084">
+        <rect width="145.107" height="31.641" x="6408.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6418.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="125.107">Waste → Resource
+            Loops</text>
+    </g>
+    <g class="entity" data-entity="Repair . Reuse Infrastructure" data-source-line="156" data-uid="ent0085">
+        <rect width="169.248" height="31.641" x="6206.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6216.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="149.248">Repair &amp; Reuse
+            Infrastructure</text>
+    </g>
+    <g class="entity" data-entity="Emergency. .15 min .Medicine. Tools." data-source-line="160" data-uid="ent0087">
+        <rect width="214.609" height="31.641" x="6623.5" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6633.5" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="194.609">Emergency: &lt;15
+            min (Medicine, Tools)</text>
+    </g>
+    <g class="entity" data-entity="Essential Goods. .30 min" data-source-line="161" data-uid="ent0088">
+        <rect width="149.243" height="31.641" x="6873.5" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6883.5" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="129.243">Essential Goods:
+            &lt;30 min</text>
+    </g>
+    <g class="entity" data-entity="Need-Based Allocation .Not Market-Gated." data-source-line="162" data-uid="ent0089">
+        <rect width="233.232" height="31.641" x="6622.5" y="1534.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="6632.5" y="1553.392" font-family="'Noto Sans'" font-size="10" textLength="213.232">Need-Based
+            Allocation (Not Market-Gated)</text>
+    </g>
+    <g class="entity" data-entity="Fatigue-Free Pod Travel" data-source-line="168" data-uid="ent0092">
+        <rect width="139.243" height="31.641" x="5760.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5770.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="119.243">Fatigue-Free Pod
+            Travel</text>
+    </g>
+    <g class="entity" data-entity="No Economic Barriers" data-source-line="169" data-uid="ent0093">
+        <rect width="127.827" height="31.641" x="5935" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5945" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="107.827">No Economic
+            Barriers</text>
+    </g>
+    <g class="entity" data-entity="No Geographic Isolation" data-source-line="170" data-uid="ent0094">
+        <rect width="139.863" height="31.641" x="5760" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5770" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="119.863">No Geographic
+            Isolation</text>
+    </g>
+    <g class="entity" data-entity="Books Circulate Like Water" data-source-line="174" data-uid="ent0096">
+        <rect width="154.815" height="31.641" x="5324.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5334.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="134.815">Books Circulate Like
+            Water</text>
+    </g>
+    <g class="entity" data-entity="Educational Materials on Demand" data-source-line="175" data-uid="ent0097">
+        <rect width="188.926" height="31.641" x="5514.5" y="1014.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5524.5" y="1033.392" font-family="'Noto Sans'" font-size="10" textLength="168.926">Educational
+            Materials on Demand</text>
+    </g>
+    <g class="entity" data-entity="Maker Tools.Lab Access" data-source-line="176" data-uid="ent0098">
+        <rect width="139.326" height="31.641" x="5332.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5342.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="119.326">Maker Tools/Lab
+            Access</text>
+    </g>
+    <g class="entity" data-entity="Streets as Democratic Commons" data-source-line="180" data-uid="ent0100">
+        <rect width="184.585" height="31.641" x="5723.5" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5733.5" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="164.585">Streets as
+            Democratic Commons</text>
+    </g>
+    <g class="entity" data-entity="Children.s Safe Play" data-source-line="181" data-uid="ent0101">
+        <rect width="119.145" height="31.641" x="5943.5" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5953.5" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="99.145">Children&apos;s Safe
+            Play</text>
+    </g>
+    <g class="entity" data-entity="Ecological Restoration .Gardens. Trees." data-source-line="182" data-uid="ent0102">
+        <rect width="218.394" height="31.641" x="5724" y="1534.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="5734" y="1553.392" font-family="'Noto Sans'" font-size="10" textLength="198.394">Ecological Restoration
+            (Gardens, Trees)</text>
+    </g>
+    <g class="entity" data-entity="Market Logic. Price-Gated Access" data-source-line="190" data-uid="ent0105">
+        <rect width="186.836" height="31.641" x="8954.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8964.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="166.836">Market Logic:
+            Price-Gated Access</text>
+    </g>
+    <g class="entity" data-entity="Circulation Logic. Need-Based Flow" data-source-line="191" data-uid="ent0106">
+        <rect width="196.255" height="31.641" x="9177" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="9187" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="176.255">Circulation Logic:
+            Need-Based Flow</text>
+    </g>
+    <g class="entity" data-entity="Democratic Coordination . Invisible Hand" data-source-line="192" data-uid="ent0107">
+        <rect width="230.4" height="31.641" x="8955" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8965" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="210.4">Democratic Coordination
+            &gt; Invisible Hand</text>
+    </g>
+    <g class="entity" data-entity="Capitalism. Abundance Hoarded Behind Purchasing Power" data-source-line="196"
+        data-uid="ent0109">
+        <rect width="311.631" height="31.641" x="8242" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8252" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="291.631">Capitalism: Abundance
+            Hoarded Behind Purchasing Power</text>
+    </g>
+    <g class="entity" data-entity="Socialism. Infrastructure Enables Universal Access" data-source-line="197"
+        data-uid="ent0110">
+        <rect width="272.524" height="31.641" x="8589.5" y="1250.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8599.5" y="1269.392" font-family="'Noto Sans'" font-size="10" textLength="252.524">Socialism:
+            Infrastructure Enables Universal Access</text>
+    </g>
+    <g class="entity" data-entity="Decommodification as Material Reality" data-source-line="198" data-uid="ent0111">
+        <rect width="213.398" height="31.641" x="8291.5" y="1416.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8301.5" y="1435.392" font-family="'Noto Sans'" font-size="10" textLength="193.398">Decommodification as
+            Material Reality</text>
+    </g>
+    <g class="entity" data-entity="Capitalist Gig Economy. Labor Exploitation" data-source-line="202"
+        data-uid="ent0113">
+        <rect width="233.721" height="31.641" x="8878" y="1534.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8888" y="1553.392" font-family="'Noto Sans'" font-size="10" textLength="213.721">Capitalist Gig
+            Economy: Labor Exploitation</text>
+    </g>
+    <g class="entity" data-entity="Socialist Circulation. Cooperative Ownership" data-source-line="203"
+        data-uid="ent0114">
+        <rect width="242.285" height="31.641" x="9147" y="1534.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="9157" y="1553.392" font-family="'Noto Sans'" font-size="10" textLength="222.285">Socialist Circulation:
+            Cooperative Ownership</text>
+    </g>
+    <g class="entity" data-entity="Rights Engineered into Physical Environment" data-source-line="204"
+        data-uid="ent0115">
+        <rect width="245.2" height="31.641" x="8878.5" y="1662.109" fill="#fff" rx="5" ry="5"
+            style="stroke:#000;stroke-width:1" />
+        <text x="8888.5" y="1681.392" font-family="'Noto Sans'" font-size="10" textLength="225.2">Rights Engineered into
+            Physical Environment</text>
+    </g>
+    <g class="entity" data-entity="GMN127" data-source-line="226" data-uid="ent0128">
+        <path fill="#fffacd" d="M1931 162.11v114.765h296.405V172.109l-10-10H1931"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M2217.405 162.11v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="1937" y="176.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="187.08">DEADWEIGHT PARADOX SOLVED:</text>
+        <text x="1937" y="188.032" font-family="'Noto Sans'" font-size="10" textLength="275.405">Conventional: 95-99%
+            energy wasted on vehicle mass.</text>
+        <text x="1937" y="199.673" font-family="'Noto Sans'" font-size="10" textLength="215.884">Cable Network: 48-92%
+            payload efficiency.</text>
+        <text x="1937" y="211.314" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="1937" y="222.954" font-family="'Noto Sans'" font-size="10" font-weight="bold" textLength="77.466">RURAL
+            MESH:</text>
+        <text x="1937" y="234.595" font-family="'Noto Sans'" font-size="10" textLength="237.349">Farm-Loops enable
+            lateral peer-to-peer sharing</text>
+        <text x="1937" y="246.235" font-family="'Noto Sans'" font-size="10" textLength="219.839">without market
+            intermediaries, bridging the</text>
+        <text x="1937" y="257.876" font-family="'Noto Sans'" font-size="10" textLength="202.651">&quot;metabolic
+            rift&quot; between rural producers</text>
+        <text x="1937" y="269.517" font-family="'Noto Sans'" font-size="10" textLength="112.329">and urban
+            consumers.</text>
+    </g>
+    <g class="entity" data-entity="GMN130" data-source-line="238" data-uid="ent0131">
+        <path fill="#fffacd" d="M1931.5 365.11v79.843h269.027V375.11l-10-10H1931.5"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M2190.527 365.11v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="1937.5" y="379.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="150.576">LAST-METER REVOLUTION:</text>
+        <text x="1937.5" y="391.032" font-family="'Noto Sans'" font-size="10" textLength="248.027">Technology makes
+            sharing economically rational.</text>
+        <text x="1937.5" y="402.673" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="1937.5" y="414.313" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="51.816">Example:</text>
+        <text x="1992.495" y="414.313" font-family="'Noto Sans'" font-size="10" textLength="174.199">Borrowing a drill
+            takes &lt;5 minutes</text>
+        <text x="1937.5" y="425.954" font-family="'Noto Sans'" font-size="10" textLength="214.966">via automated
+            delivery—making individual</text>
+        <text x="1937.5" y="437.595" font-family="'Noto Sans'" font-size="10" textLength="228.193">ownership absurd for
+            infrequently-used tools.</text>
+    </g>
+    <g class="entity" data-entity="GMN133" data-source-line="247" data-uid="ent0134">
+        <path fill="#fffacd" d="M5569 732.61v103.124h283.89V742.61l-10-10H5569" style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M5842.89 732.61v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="5575" y="746.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="152.998">URBAN TRANSFORMATION:</text>
+        <text x="5575" y="758.532" font-family="'Noto Sans'" font-size="10" textLength="262.891">Cable networks reclaim
+            70-90% of goods movement</text>
+        <text x="5575" y="770.173" font-family="'Noto Sans'" font-size="10" textLength="186.851">from streets → Public
+            space restored.</text>
+        <text x="5575" y="781.813" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="5575" y="793.454" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="126.387">MATTER TORRENTING:</text>
+        <text x="5575" y="805.095" font-family="'Noto Sans'" font-size="10" textLength="201.343">Just as BitTorrent
+            shares files P2P, cable</text>
+        <text x="5575" y="816.735" font-family="'Noto Sans'" font-size="10" textLength="220.659">networks enable
+            physical goods to &quot;torrent&quot;</text>
+        <text x="5575" y="828.376" font-family="'Noto Sans'" font-size="10" textLength="258.433">between households.
+            Zero friction = zero hoarding.</text>
+    </g>
+    <g class="entity" data-entity="GMN136" data-source-line="258" data-uid="ent0137">
+        <path fill="#fffacd" d="M5236 732.61v103.124h297.811V742.61l-10-10H5236"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M5523.812 732.61v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="5242" y="746.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="182.285">BRIDGING THE METABOLIC RIFT:</text>
+        <text x="5242" y="758.532" font-family="'Noto Sans'" font-size="10" textLength="243.955">Marx identified the
+            separation of rural producers</text>
+        <text x="5242" y="770.173" font-family="'Noto Sans'" font-size="10" textLength="276.812">from urban consumers as
+            a fundamental contradiction.</text>
+        <text x="5242" y="781.813" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="5242" y="793.454" font-family="'Noto Sans'" font-size="10" textLength="112.529">Cable networks
+            create</text>
+        <text x="5357.708" y="793.454" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="111.787">direct farm-to-plate</text>
+        <text x="5242" y="805.095" font-family="'Noto Sans'" font-size="10" textLength="274.228">traceability,
+            eliminating 40-70% middleman extraction</text>
+        <text x="5242" y="816.735" font-family="'Noto Sans'" font-size="10" textLength="233.774">while enabling farmers
+            to retain value through</text>
+        <text x="5242" y="828.376" font-family="'Noto Sans'" font-size="10" textLength="151.401">local processing
+            cooperatives.</text>
+    </g>
+    <g class="entity" data-entity="GMN139" data-source-line="269" data-uid="ent0140">
+        <path fill="#fffacd" d="M1931.5 559.61v103.124h275.36V569.61l-10-10H1931.5"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M2196.86 559.61v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="1937.5" y="573.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="178.833">TRANSACTION COST COLLAPSE:</text>
+        <text x="1937.5" y="585.532" font-family="'Noto Sans'" font-size="10" textLength="206.616">Capitalism maintains
+            artificial scarcity by</text>
+        <text x="1937.5" y="597.173" font-family="'Noto Sans'" font-size="10" textLength="243.364">making sharing
+            expensive (coordination burden,</text>
+        <text x="1937.5" y="608.813" font-family="'Noto Sans'" font-size="10" textLength="137.769">social friction,
+            trust issues).</text>
+        <text x="1937.5" y="620.454" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="1937.5" y="632.095" font-family="'Noto Sans'" font-size="10" textLength="254.36">Infrastructure
+            automation makes transaction costs</text>
+        <text x="1937.5" y="643.735" font-family="'Noto Sans'" font-size="10" textLength="242.373">approach zero →
+            Sharing becomes economically</text>
+        <text x="1937.5" y="655.376" font-family="'Noto Sans'" font-size="10" textLength="164.023">superior to
+            individual ownership.</text>
+    </g>
+    <g class="entity" data-entity="GMN142" data-source-line="280" data-uid="ent0143">
+        <path fill="#fffacd" d="M9461.5 1179.61v172.968h313.041V1189.61l-10-10H9461.5"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M9764.541 1179.61v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="9467.5" y="1193.892" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="153.071">21ST CENTURY SOCIALISM:</text>
+        <text x="9467.5" y="1205.532" font-family="'Noto Sans'" font-size="10" textLength="131.489">Not utopian
+            aspiration but</text>
+        <text x="9602.168" y="1205.532" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="111.86">technically superior</text>
+        <text x="9467.5" y="1217.173" font-family="'Noto Sans'" font-size="10" textLength="164.585">organization when
+            evaluated on:</text>
+        <text x="9467.5" y="1228.813" font-family="'Noto Sans'" font-size="10" textLength="180.215">• Efficiency
+            (50-500x improvement)</text>
+        <text x="9467.5" y="1240.454" font-family="'Noto Sans'" font-size="10" textLength="228.569">• Equity (universal
+            access, not market-gated)</text>
+        <text x="9467.5" y="1252.095" font-family="'Noto Sans'" font-size="10" textLength="222.026">• Sustainability
+            (60-80% material reduction)</text>
+        <text x="9467.5" y="1263.735" font-family="'Noto Sans'" font-size="10" textLength="103.208">• Human
+            Flourishing</text>
+        <text x="9467.5" y="1275.376" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="9467.5" y="1287.017" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="292.041">Infrastructure as Political Economy and Philosophy:</text>
+        <text x="9467.5" y="1298.657" font-family="'Noto Sans'" font-size="10" textLength="203.496">Every technical
+            choice embodies values.</text>
+        <text x="9467.5" y="1310.298" font-family="'Noto Sans'" font-size="10" textLength="222.295">This infrastructure
+            materializes the principle</text>
+        <text x="9467.5" y="1321.938" font-family="'Noto Sans'" font-size="10" textLength="216.934">that movement, like
+            air and water, belongs</text>
+        <text x="9467.5" y="1333.579" font-family="'Noto Sans'" font-size="10" textLength="203.789">to the
+            commons—organized collectively,</text>
+        <text x="9467.5" y="1345.22" font-family="'Noto Sans'" font-size="10" textLength="235.845">governed
+            democratically, provided universally.</text>
+    </g>
+    <g class="entity" data-entity="GMN145" data-source-line="297" data-uid="ent0146">
+        <path fill="#fffacd" d="M9810 1197.11v138.046h241.64V1207.11l-10-10H9810"
+            style="stroke:#daa520;stroke-width:1" />
+        <path fill="#fffacd" d="M10041.64 1197.11v10h10l-10-10" style="stroke:#daa520;stroke-width:1" />
+        <text x="9816" y="1211.392" font-family="'Noto Sans'" font-size="10" font-weight="bold"
+            textLength="164.37">CIRCULATION vs. EXCHANGE:</text>
+        <text x="9816" y="1223.032" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="9816" y="1234.673" font-family="'Noto Sans'" font-size="10" textLength="110.361">Exchange
+            (Capitalist):</text>
+        <text x="9816" y="1246.313" font-family="'Noto Sans'" font-size="10" textLength="193.403">• Every transaction
+            requires balancing</text>
+        <text x="9816" y="1257.954" font-family="'Noto Sans'" font-size="10" textLength="183.706">• Access gated by
+            purchasing power</text>
+        <text x="9816" y="1269.595" font-family="'Noto Sans'" font-size="10" textLength="220.64">• Relationships
+            characterized by calculation</text>
+        <text x="9816" y="1281.235" font-family="'Noto Sans'" font-size="10" textLength="3.179"> </text>
+        <text x="9816" y="1292.876" font-family="'Noto Sans'" font-size="10" textLength="109.678">Circulation
+            (Socialist):</text>
+        <text x="9816" y="1304.517" font-family="'Noto Sans'" font-size="10" textLength="161.758">• Resources flow based
+            on need</text>
+        <text x="9816" y="1316.157" font-family="'Noto Sans'" font-size="10" textLength="144.263">• Democratic
+            priority-setting</text>
+        <text x="9816" y="1327.798" font-family="'Noto Sans'" font-size="10" textLength="174.39">• Relationships based
+            on solidarity</text>
+    </g>
+    <g class="link" data-entity-1="veins" data-entity-2="capillaries" data-source-line="209" data-uid="lnk116">
+        <path fill="none" d="M935.134 220.11H1875v79.799-4.958" style="stroke:#000;stroke-width:2" />
+        <path d="m1875 300.951 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="1417.26" y="217.392" font-family="'Noto Sans'" font-size="10" textLength="75.132">Feeds &amp;
+            Clears</text>
+    </g>
+    <g class="link" data-entity-1="capillaries" data-entity-2="urban_meta" data-source-line="210" data-uid="lnk117">
+        <path fill="none" d="M1885.056 484.11H4295v34.159-5.35" style="stroke:#000;stroke-width:2" />
+        <path d="m4295 518.919 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="3009.607" y="469.392" font-family="'Noto Sans'" font-size="10" textLength="72.695">Enables Urban</text>
+        <text x="3007.62" y="481.032" font-family="'Noto Sans'" font-size="10" textLength="76.67">Transformation</text>
+    </g>
+    <g class="link" data-entity-1="capillaries" data-entity-2="rural_meta" data-source-line="211" data-uid="lnk118">
+        <path fill="none" d="M1883.736 522.11h368.697-4.185" style="stroke:#000;stroke-width:2" />
+        <path d="m2254.248 522.109-9-4 4 4-4 4z" style="stroke:#000;stroke-width:2" />
+        <text x="2476.09" y="507.392" font-family="'Noto Sans'" font-size="10" textLength="68.755">Enables Rural</text>
+        <text x="2481.566" y="519.032" font-family="'Noto Sans'" font-size="10" textLength="57.803">Metabolism</text>
+    </g>
+    <g class="link" data-entity-1="urban_meta" data-entity-2="trans_cost" data-source-line="213" data-uid="lnk119">
+        <path fill="none" d="M4286.86 612.11h-48.19v68.192" style="stroke:#000;stroke-width:2" />
+        <path d="m4238.67 686.302 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="4169.466" y="655.062" font-family="'Noto Sans'" font-size="10" textLength="47.705">Collapses</text>
+        <text x="4148.67" y="666.702" font-family="'Noto Sans'" font-size="10" textLength="89.297">Transaction
+            Costs</text>
+    </g>
+    <g class="link" data-entity-1="rural_meta" data-entity-2="trans_cost" data-source-line="214" data-uid="lnk120">
+        <path fill="none" d="M3251.252 611.11h963.498v74.371-4.995" style="stroke:#000;stroke-width:2" />
+        <path d="m4214.75 686.486 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="3773.844" y="596.392" font-family="'Noto Sans'" font-size="10" textLength="37.808">Bridges</text>
+        <text x="3758.4" y="608.032" font-family="'Noto Sans'" font-size="10" textLength="68.696">Metabolic Rift</text>
+    </g>
+    <g class="link" data-entity-1="trans_cost" data-entity-2="drudgery_rights" data-source-line="216" data-uid="lnk121">
+        <path fill="none" d="M4247.863 698.11H8114v237.776-4.271" style="stroke:#000;stroke-width:2" />
+        <path d="m8114 937.615 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="6238.52" y="695.392" font-family="'Noto Sans'" font-size="10" textLength="60.015">Materializes</text>
+    </g>
+    <g class="link" data-entity-1="trans_cost" data-entity-2="econ_rights" data-source-line="217" data-uid="lnk122">
+        <path fill="none" d="M4247.094 785.11h72.406v110H7151v41.927-5.284" style="stroke:#000;stroke-width:2" />
+        <path d="m7151 937.753 4-9-4 4-4-4z" style="stroke:#000;stroke-width:2" />
+        <text x="5667.34" y="892.392" font-family="'Noto Sans'" font-size="10" textLength="39.273">Enables</text>
+    </g>
+    <g class="link" data-entity-1="trans_cost" data-entity-2="spatial_rights" data-source-line="218" data-uid="lnk123">
+        <path fill="none" d="M4247.346 955.11h1020.21" style="stroke:#000;stroke-width:2" />
+        <path d="m5273.556 955.109-9-4 4 4-4 4z" style="stroke:#000;stroke-width:2" />
+        <text x="5068.01" y="952.392" font-family="'Noto Sans'" font-size="10" textLength="58.227">Guarantees</text>
+    </g>
+    <g class="link" data-entity-1="drudgery_rights" data-entity-2="civilization" data-source-line="220"
+        data-uid="lnk124">
+        <path fill="none" d="M8122.116 1266.11h63.603-5.858" style="stroke:#000;stroke-width:1" />
+        <path d="m8185.861 1266.109-9-4 4 4-4 4z" style="stroke:#000;stroke-width:1" />
+        <text x="8042" y="1185.332" font-family="'Noto Sans'" font-size="10" textLength="71.436">Contributes to</text>
+    </g>
+    <g class="link" data-entity-1="econ_rights" data-entity-2="civilization" data-source-line="221" data-uid="lnk125">
+        <path fill="none" d="M7160.017 1073.11H8194v83.25-4.912" style="stroke:#000;stroke-width:1" />
+        <path d="m8194 1157.448 4-9-4 4-4-4z" style="stroke:#000;stroke-width:1" />
+        <text x="7675.46" y="1070.392" font-family="'Noto Sans'" font-size="10" textLength="71.436">Contributes
+            to</text>
+    </g>
+    <g class="link" data-entity-1="spatial_rights" data-entity-2="civilization" data-source-line="222"
+        data-uid="lnk126">
+        <path fill="none" d="M6120.396 1127.11H8218.5v29.478-4.63" style="stroke:#000;stroke-width:1" />
+        <path d="m8218.5 1157.958 4-9-4 4-4-4z" style="stroke:#000;stroke-width:1" />
+        <text x="7126.01" y="1124.392" font-family="'Noto Sans'" font-size="10" textLength="71.436">Contributes
+            to</text>
+    </g>
+    <path fill="none" d="M935.848 211.11h994.902" class="link" data-entity-1="veins" data-entity-2="GMN127"
+        data-source-line="226" data-uid="lnk129" style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M1883.154 405.11h47.906" class="link" data-entity-1="capillaries" data-entity-2="GMN130"
+        data-source-line="238" data-uid="lnk132" style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M5191.774 656.11H5711v76.31" class="link" data-entity-1="urban_meta" data-entity-2="GMN133"
+        data-source-line="247" data-uid="lnk135" style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M3251.144 748.11H5235.65" class="link" data-entity-1="rural_meta" data-entity-2="GMN136"
+        data-source-line="258" data-uid="lnk138" style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M2206.91 642.11H4267v142h-19.894" class="link" data-entity-1="GMN139"
+        data-entity-2="trans_cost" data-source-line="269" data-uid="lnk141"
+        style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M9461.19 1329.11h-22.28" class="link" data-entity-1="GMN142" data-entity-2="civilization"
+        data-source-line="280" data-uid="lnk144" style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+    <path fill="none" d="M9401.289 1385.11H9931v-49.78" class="link" data-entity-1="exchange_circ"
+        data-entity-2="GMN145" data-source-line="297" data-uid="lnk147"
+        style="stroke:#000;stroke-width:1;stroke-dasharray:7,7" />
+</svg>

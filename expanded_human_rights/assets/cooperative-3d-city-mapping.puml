@@ -1,0 +1,85 @@
+@startuml "Civic Pulse (Cooperative 3D Mapping)"
+!define RECTANGLE class
+
+' Style configurations
+skinparam componentStyle rectangle
+skinparam backgroundColor #FEFEFE
+skinparam component {
+    BackgroundColor #E6F7FF
+    BorderColor #1890FF
+    ArrowColor #000000
+}
+skinparam packageStyle rectangle
+
+title System Architecture: Civic Pulse (Cooperative 3D Mapping)
+
+package "Fleet Vehicle (Edge Node)" {
+    
+    component "Ultrasonic Array\n(40kHz Transducers)" as Sensor {
+        [Emitter]
+        [Receiver]
+    }
+    
+    component "IMU Sensor\n(Accelerometer/Gyro)" as IMU
+    component "GPS Module" as GPS
+    component "Local ECU\n(ESP32 Microcontroller)" as ECU
+    component "Telemetry Module\n(Cellular/WiFi)" as Telemetry
+
+    note right of Sensor
+      - Emits inaudible 40kHz chirp
+      - Records Time of Flight (ToF)
+    end note
+
+    note right of IMU
+      - Detects vehicle tilt/vibration
+      - Enables "Mathematical Leveling"
+    end note
+    
+    ' Data Flow within Vehicle
+    Sensor --> ECU : Raw Echo Data
+    IMU --> ECU : Orientation / Velocity
+    GPS --> ECU : Crude Location Fix
+    
+    ECU --> Telemetry : Processed "Slice" Packet
+}
+
+package "Network" {
+    database "Internet / 4G-5G" as Net
+}
+
+package "People's Multimodal Transport Platform\n(Cloud Cooperative)" {
+    
+    component "Data Ingestion API" as API
+    component "SLAM Fusion Engine" as SLAM
+    component "Voxel Database\n(3D City Grid)" as VoxelDB
+    component "Infrastructure Monitor" as Monitor
+    component "Routing & Access Service" as Routing
+    
+    ' Data Flow within Cloud
+    API --> SLAM : Aggregated Slices
+    SLAM --> VoxelDB : Occupancy Probabilities
+    SLAM --> Monitor : Anomaly Detection
+    VoxelDB --> Routing : 3D Geometry Data
+    
+    note right of SLAM
+      - Corrects GPS Drift using static structures
+      - Fuses multiple vehicle passes
+      - Builds Probabilistic Voxel Map
+    end note
+}
+
+package "Public & Municipal Beneficiaries" {
+    component "Navigation App\n(User View)" as UserApp
+    component "Road Maintenance System\n(Municipal View)" as GovApp
+    component "City Digital Twin" as DigitalTwin
+}
+
+' Connections between packages
+Telemetry --> Net : Upload Data
+Net --> API : Forward Packets
+
+Routing --> UserApp : Optimized Routes (Needs based)
+Monitor --> GovApp : Pothole/Encroachment Alerts
+VoxelDB --> DigitalTwin : Real-time 3D Visualization
+
+@enduml
