@@ -151,6 +151,7 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv-qwen/
 env/
 venv/
 ENV/
@@ -216,3 +217,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local speech-pipeline outputs (reproducible from source audio)
+artifacts/
+
+
+
+# local work
+
+.local/
+.rough/

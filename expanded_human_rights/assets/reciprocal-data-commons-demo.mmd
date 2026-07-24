@@ -1,0 +1,68 @@
+graph TD
+    subgraph "Data Sources: Real-Time Feeds"
+        A1[Climate Data<br/>Wind, Temperature Inversion,<br/>Humidity, Forecasts]
+        A2[Agricultural Data<br/>Stubble Burning Detection,<br/>Harvest Schedules, Farmer Reports]
+        A3[Transport Data<br/>Traffic Volumes, Vehicle Types,<br/>Congestion, Freight Routes]
+        A4[Health Data<br/>Respiratory Illness Admissions,<br/>Vulnerable Population Mapping,<br/>Medicine Inventory]
+        A5[Energy Data<br/>Industrial Emissions,<br/>Power Consumption,<br/>Factory Operations]
+        A6[Environmental Sensors<br/>PM2.5, PM10, NO2, SO2,<br/>Spatial Distribution]
+        A7[Social Data<br/>Citizen Reports, Complaints,<br/>Participation Patterns]
+    end
+
+    subgraph "Integration Layer: Public Knowledge Infrastructure"
+        B1[Real-Time Data Aggregation<br/>Federated across Mesh Nodes]
+        B2[ML Prediction Models<br/>72-hr Pollution Forecasting]
+        B3[Source Attribution Engine<br/>Sectoral Contribution Analysis]
+        B4[Vulnerability Mapping<br/>High-Risk Populations & Areas]
+        B5[Intervention Optimization<br/>Multi-Objective Planning]
+    end
+
+    subgraph "Predictive Intelligence Outputs"
+        C1[Pollution Spike Alert<br/>72-Hour Advance Warning]
+        C2[Source Breakdown<br/>40% Vehicular, 25% Industrial,<br/>20% Agricultural, 15% Construction]
+        C3[Vulnerability Hotspots<br/>Informal Settlements,<br/>Schools in Corridors,<br/>Elderly Populations]
+        C4[Optimized Intervention Plan<br/>Sector-Specific Actions]
+    end
+
+    subgraph "Coordinated Multi-Sector Interventions"
+        D1[Transport Interventions<br/>Dynamic Traffic Rerouting,<br/>Freight Night-Shift,<br/>Emergency Public Transit Surge]
+        D2[Health Interventions<br/>Preposition Medications,<br/>Mobile Health Vans,<br/>Targeted Advisories]
+        D3[Education Interventions<br/>Shift to Remote Learning,<br/>Deploy Air Purifiers,<br/>Hyperlocal School Decisions]
+        D4[Industrial Interventions<br/>Temporary Emission Caps,<br/>Clean Energy Incentives,<br/>Enforcement Actions]
+        D5[Agricultural Interventions<br/>Deploy Stubble Equipment,<br/>Accelerate Subsidies,<br/>Biomass Purchasing]
+        D6[Citizen Engagement<br/>Real-Time Hyperlocal Data,<br/>Health Guidance,<br/>Participation Rewards]
+    end
+
+    subgraph "Feedback Loops: Continuous Learning"
+        E1[Intervention Effectiveness<br/>Did predictions match reality?<br/>Which interventions worked?]
+        E2[Model Refinement<br/>Retrain ML with outcomes]
+        E3[Policy Evolution<br/>Structural reforms based on patterns]
+    end
+
+    A1 & A2 & A3 & A4 & A5 & A6 & A7 --> B1
+    B1 --> B2 & B3 & B4 & B5
+    B2 --> C1
+    B3 --> C2
+    B4 --> C3
+    B5 --> C4
+    
+    C1 & C2 & C3 & C4 --> D1 & D2 & D3 & D4 & D5 & D6
+    
+    D1 & D2 & D3 & D4 & D5 & D6 --> E1
+    E1 --> E2 & E3
+    E2 --> B2
+    E3 --> B5
+
+    style C1 fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
+    style C4 fill:#51cf66,stroke:#2f9e44,stroke-width:3px,color:#000
+    style B2 fill:#748ffc,stroke:#4c6ef5,stroke-width:2px,color:#fff
+    style B5 fill:#ffd43b,stroke:#fab005,stroke-width:2px,color:#000
+
+  direction TB
+  A1[Climate Data]
+  A2[Agricultural Data]
+  A3[Transport Data]
+  A4[Health Data]
+  A5[Energy Data]
+  A6[Environmental Sensors]
+  A7[Social Data]

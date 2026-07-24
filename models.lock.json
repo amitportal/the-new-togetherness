@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "models": {
+    "asr": {
+      "repository": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
+      "revision": "0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+      "file": "model.bin",
+      "sha256": "e76620f83d5f5b69efd3d87e3dc180c1bd21df9fbebacfd4335e5e1efcc018da",
+      "size_bytes": 1617884929
+    },
+    "editor": {
+      "repository": "Qwen/Qwen3-4B-GGUF",
+      "revision": "bc640142c66e1fdd12af0bd68f40445458f3869b",
+      "file": "Qwen3-4B-Q4_K_M.gguf",
+      "sha256": "7485fe6f11af29433bc51cab58009521f205840f5b4ae3a32fa7f92e8534fdf5",
+      "size_bytes": 2497280256,
+      "local_path": "C:\\Users\\kamit\\.cache\\the-new-togetherness\\models\\Qwen3-4B-GGUF\\Qwen3-4B-Q4_K_M.gguf"
+    }
+  },
+  "runtimes": {
+    "llama.cpp": "b10092",
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.1"
+  }
+}

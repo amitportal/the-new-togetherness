@@ -1,0 +1,15 @@
+@startuml "Knowledge Graph"
+skinparam componentStyle rectangle
+skinparam backgroundColor transparent
+
+package "Public Knowledge Infrastructure (PKI)" {
+    component "Layer 4: Actionable Knowledge\n(Collective Learning & Capability to Act)" as L4
+    component "Layer 3: Interpretation & Comprehension\n(Multi-Modal Access & Universal Query Systems)" as L3
+    component "Layer 2: Structured Knowledge\n(Standardization, Versioning & Validation)" as L2
+    component "Layer 1: Raw Data Commons\n(Federated Repositories & Privacy Architecture)" as L1
+}
+
+L1 -up-> L2 : Data Refinement
+L2 -up-> L3 : Semantic Translation
+L3 -up-> L4 : Democratic Actualization
+@enduml

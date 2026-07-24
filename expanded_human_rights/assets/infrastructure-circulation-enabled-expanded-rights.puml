@@ -1,0 +1,147 @@
+@startuml Resource Circulation and Rights Ecosystem
+
+skinparam shadowing false
+skinparam defaultFontSize 10
+skinparam linetype ortho
+
+!define INFRA_COLOR #E3F2FD
+!define RIGHTS_COLOR #F3E5F5
+!define FLOWS_COLOR #E8F5E9
+!define COMMUNITY_COLOR #FFF9C4
+
+' Central Infrastructure
+rectangle "Cable Network\n+ Cooperative Platform\nInfrastructure" as infrastructure <<Core System>> INFRA_COLOR {
+  [Electromagnetic Arterial Network]
+  [Edge Delivery Systems]
+  [People's Multimodal Platform]
+  [Democratic Governance Protocols]
+  note right: Universal connectivity\nNear-zero marginal cost\nDemocratically controlled
+}
+
+' New Rights Enabled
+package "Emergent Rights Framework" as rights <<Political-Economic>> RIGHTS_COLOR {
+  rectangle "Right to Universal\nMovement" as movement {
+    [No economic barriers]
+    [No physical barriers]
+    [No geographical limits]
+    [No temporal restrictions]
+  }
+  
+  rectangle "Right to Immediate\nResource Access" as access {
+    [Emergency: <15 min]
+    [Essential goods: <30 min]
+    [True cost pricing]
+    [Need-based allocation]
+  }
+  
+  rectangle "Right to Participatory\nProduction" as production {
+    [Distributed manufacturing]
+    [Cooperative workshops]
+    [Home-based production]
+    [Democratic planning]
+  }
+  
+  rectangle "Right to Circular\nEconomy" as circular {
+    [Automated reverse logistics]
+    [Waste elimination]
+    [Material valorization]
+    [Perpetual circulation]
+  }
+  
+  rectangle "Right to Economic\nDemocracy" as democracy {
+    [Worker self-management]
+    [Building cooperatives]
+    [Federated networks]
+    [Collective ownership]
+  }
+  
+  rectangle "Right to Knowledge\nCommons" as knowledge {
+    [Open-source innovation]
+    [Tool circulation]
+    [Educational access]
+    [Cultural production]
+  }
+}
+
+' Resource Flows
+package "Circulation Patterns" as flows <<Material Flows>> FLOWS_COLOR {
+  rectangle "Forward Logistics" as forward {
+    [Food: Kitchen → Households]
+    [Tools: Libraries → Users]
+    [Medicine: Pharmacy → Patients]
+    [Education: Schools ⇄ Students]
+  }
+  
+  rectangle "Reverse Logistics" as reverse {
+    [Organic Waste → Composting]
+    [Electronics → Repair Coops]
+    [Textiles → Recycling Centers]
+    [Surplus Food → Redistribution]
+  }
+  
+  rectangle "Peer-to-Peer Exchange" as p2p {
+    [Household ⇄ Household]
+    [Neighborhood Sharing]
+    [Gift Economy Flows]
+    [Joyful Surplus Circulation]
+  }
+}
+
+' Community Structures
+package "Democratic Coordination" as community <<Social Organization>> COMMUNITY_COLOR {
+  rectangle "Building Cooperatives" as buildings {
+    [Resident Assemblies]
+    [Economic Enterprises]
+    [Shared Resources]
+  }
+  
+  rectangle "Neighborhood Federations" as neighborhoods {
+    [Tool Libraries]
+    [Community Kitchens]
+    [Care Networks]
+  }
+  
+  rectangle "Citywide Coordination" as city {
+    [Production Planning]
+    [Resource Allocation]
+    [Emergency Response]
+  }
+}
+
+' Connections
+infrastructure ==> rights : "Enables materially"
+rights ==> flows : "Manifests as"
+flows ==> community : "Coordinates through"
+community ==> infrastructure : "Governs democratically"
+
+infrastructure --> forward : "Automates"
+infrastructure --> reverse : "Facilitates"
+infrastructure --> p2p : "Makes frictionless"
+
+note bottom of infrastructure
+  **Infrastructure as Political Choice:**
+  Every technical design decision embodies values:
+  • Open-source vs proprietary
+  • Equitable access vs profit-maximization
+  • Privacy-respecting vs surveillance
+  • Resilient/distributed vs centralized/fragile
+end note
+
+note top of rights
+  **From Legal Abstraction to Material Reality:**
+  Rights become real when infrastructure provides
+  capability, not just legal permission.
+  Technology serves liberation when collectively
+  owned and democratically governed.
+end note
+
+note right of flows
+  **Circulation vs Exchange:**
+  • Exchange: market-mediated, price-gated
+  • Circulation: need-based, democratically coordinated
+  
+  Cable network enables transition from
+  commodity exchange to commons circulation.
+end note
+
+@enduml
